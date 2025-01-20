@@ -2,6 +2,10 @@
 
 This repository contains a simple perceptron-based model that classifies a person's gender based on height, weight, testosterone levels, and estrogen levels. The model is trained using a dataset stored in `sex.txt`.
 
+<p align= "center">
+    <img src="https://github.com/user-attachments/assets/15bd32c6-6dbb-4fba-8e89-b56a12031ebd" style="width: 50%; height: auto;">
+</p>
+
 ## 📌 Overview
 
 The perceptron algorithm is used to classify individuals into two categories:
@@ -77,3 +81,7 @@ or
 ### 4️⃣ Error Plot
 
 At the end of execution, the program generates a plot displaying training errors over time.
+
+<p align= "center">
+    <img src="https://github.com/user-attachments/assets/d7713daf-2f66-4c38-86ef-584328d72aa3" style="width: 50%; height: auto;">
+</p>
